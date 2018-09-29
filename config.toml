@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseURL = "https://basementbio.com/"
 DefaultContentLanguage = "en"
 #DefaultContentLanguage = "ja"
 title = "Basement Bio"
@@ -41,9 +41,9 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   name = "Kristina Nickerson"
-  #website = "yourwebsite.com"
+  website = "basementbio.com"
   email = "kristina@ferrus.net"
-  #facebook = "username"
+  facebook = "groups/682350705482019/"
   #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "Hobblebush"
   #gitlab = "username"
