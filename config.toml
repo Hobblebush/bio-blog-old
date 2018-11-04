@@ -16,7 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 [Params]
   homeTitle = "Bio in the Basement" # Set a different text for the header on the home page
   subtitle = "Experiments from the lab under the stairs."
-  logo = "img/slide_02_880.jpg"
+  logo = "img/logo.jpg"
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
